@@ -1,0 +1,3 @@
+#/usr/bin/tcl/tclsh
+set a 40
+puts $a
